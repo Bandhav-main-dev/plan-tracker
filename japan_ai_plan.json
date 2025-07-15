@@ -1,77 +1,93 @@
 {
   "Japan AI Engineer Dream Plan": {
-    "Month 1\u20133: Foundation + 1 Project": {
-      "Python & Data Basics": {
-        "Learn Python deeply (OOP, files, functions)": true,
-        "Master Pandas & NumPy for data cleaning": true,
-        "Understand ML theory (regression, classification)": false
+    "Month 1–3: Foundation + 1 Project": {
+      "tasks": {
+        "Python & Data Basics": {
+          "Learn Python deeply (OOP, files, functions)": true,
+          "Master Pandas & NumPy for data cleaning": true,
+          "Understand ML theory (regression, classification)": false
+        },
+        "Japanese Language Start": {
+          "Install and start Duolingo / LingoDeer": true,
+          "Learn hiragana + greetings + basic phrases": true,
+          "Practice 10 mins daily": false
+        }
       },
-      "Project 1 - AI Portfolio Generator": {
-        "Build Streamlit form for user input": true,
-        "Use Gemini API to write content": true,
-        "Render final portfolio in HTML format": false,
-        "Add download as PDF feature": false
-      },
-      "Japanese Language Start": {
-        "Install and start Duolingo / LingoDeer": true,
-        "Learn hiragana + greetings + basic phrases": true,
-        "Practice 10 mins daily": false
+      "projects": {
+        "Project 1 - AI Portfolio Generator": {
+          "Build Streamlit form for user input": true,
+          "Use Gemini API to write content": true,
+          "Render final portfolio in HTML format": false,
+          "Add download as PDF feature": false
+        }
       }
     },
-    "Month 4\u20136: Intermediate Projects": {
-      "AI + API Skills": {
-        "Learn sklearn models (SVM, KNN, Trees)": false,
-        "Integrate Gemini / ChatGPT / Whisper APIs": false
+    "Month 4–6: Intermediate Projects": {
+      "tasks": {
+        "AI + API Skills": {
+          "Learn sklearn models (SVM, KNN, Trees)": false,
+          "Integrate Gemini / ChatGPT / Whisper APIs": false
+        },
+        "Japanese N5 Grammar": {
+          "Learn JLPT N5 grammar from anime/subs": false,
+          "20 new words per week": false
+        }
       },
-      "Project 2 - Smart Study Planner": {
-        "Design planner UI (Streamlit or Django)": false,
-        "Track topics, quizzes, timers": false,
-        "Store schedule in SQLite": false
-      },
-      "Project 3 - Voice Assistant": {
-        "Set up Whisper + Pyttsx3": false,
-        "Implement voice commands": false,
-        "Convert response to speech": false
-      },
-      "Japanese N5 Grammar": {
-        "Learn JLPT N5 grammar from anime/subs": false,
-        "20 new words per week": false
+      "projects": {
+        "Project 2 - Smart Study Planner": {
+          "Design planner UI (Streamlit or Django)": false,
+          "Track topics, quizzes, timers": false,
+          "Store schedule in SQLite": false
+        },
+        "Project 3 - Voice Assistant": {
+          "Set up Whisper + Pyttsx3": false,
+          "Implement voice commands": false,
+          "Convert response to speech": false
+        }
       }
     },
-    "Month 7\u20139: Full Stack + Portfolio": {
-      "Web Dev Stack": {
-        "Learn Django REST & React basics": false,
-        "Build client-server app": false
+    "Month 7–9: Full Stack + Portfolio": {
+      "tasks": {
+        "Web Dev Stack": {
+          "Learn Django REST & React basics": false,
+          "Build client-server app": false
+        },
+        "Japanese JLPT N4": {
+          "Start mock tests for JLPT N4": false,
+          "Grammar + sentence writing practice": false
+        }
       },
-      "Project 4 - Anime Japanese Helper": {
-        "Extract text from anime using OCR": false,
-        "Translate using AI APIs": false
-      },
-      "Project 5 - Real-Time Bug Fixer": {
-        "Build Flask interface to upload code": false,
-        "Fix bugs via Gemini API": false
-      },
-      "Japanese JLPT N4": {
-        "Start mock tests for JLPT N4": false,
-        "Grammar + sentence writing practice": false
+      "projects": {
+        "Project 4 - Anime Japanese Helper": {
+          "Extract text from anime using OCR": false,
+          "Translate using AI APIs": false
+        },
+        "Project 5 - Real-Time Bug Fixer": {
+          "Build Flask interface to upload code": false,
+          "Fix bugs via Gemini API": false
+        }
       }
     },
-    "Month 10\u201312: Job Readiness": {
-      "Portfolio + Resume": {
-        "Build AI-based portfolio site": false,
-        "Write resume + host on GitHub": false
+    "Month 10–12: Job Readiness": {
+      "tasks": {
+        "Portfolio + Resume": {
+          "Build AI-based portfolio site": false,
+          "Write resume + host on GitHub": false
+        },
+        "Outreach + Applications": {
+          "Post projects on LinkedIn / GitHub": false,
+          "Apply to Japan/remote jobs (weekly)": false
+        },
+        "Interview Preparation": {
+          "Practice 100 Leetcode Qs": false,
+          "Mock interviews with peers / AI": false
+        }
       },
-      "Project 6 - Job Recommender": {
-        "Use job API to fetch roles": false,
-        "Match based on user profile": false
-      },
-      "Outreach + Applications": {
-        "Post projects on LinkedIn / GitHub": false,
-        "Apply to Japan/remote jobs (weekly)": false
-      },
-      "Interview Preparation": {
-        "Practice 100 Leetcode Qs": false,
-        "Mock interviews with peers / AI": false
+      "projects": {
+        "Project 6 - Job Recommender": {
+          "Use job API to fetch roles": false,
+          "Match based on user profile": false
+        }
       }
     }
   }
