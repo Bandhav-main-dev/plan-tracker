@@ -1,88 +1,72 @@
 {
   "Manhattan AI Engineer Dream Plan": {
-    "Month 1–3: Core Skills + 1 Project": {
-      "tasks": {
-        "Python + Data Skills": {
-          "Learn Python (OOP, if/else, functions, files)": true,
-          "Work with Pandas, NumPy": true,
-          "Understand ML basics (regression, KNN)": false
-        },
-        "Git & GitHub": {
-          "Master git add, commit, push": true,
-          "Create repo + README": true
-        }
+    "Month 1\u20133: Core Skills + 1 Project": {
+      "Python + Data Skills": {
+        "Learn Python (OOP, if/else, functions, files)": true,
+        "Work with Pandas, NumPy": true,
+        "Understand ML basics (regression, KNN)": false
       },
-      "projects": {
-        "Project 1 - AI Portfolio Generator": {
-          "Streamlit input form for resume": true,
-          "Use Gemini to auto-generate sections": true,
-          "Design HTML output + PDF": false,
-          "Push to GitHub": true
-        }
+      "Project 1 - AI Portfolio Generator": {
+        "Streamlit input form for resume": true,
+        "Use Gemini to auto-generate sections": true,
+        "Design HTML output + PDF": false,
+        "Push to GitHub": true
+      },
+      "Git & GitHub": {
+        "Master git add, commit, push": true,
+        "Create repo + README": true
       }
     },
-    "Month 4–6: Projects + APIs": {
-      "tasks": {
-        "ML & APIs": {
-          "Learn sklearn + pipelines": false,
-          "Use Whisper, ChatGPT APIs": false,
-          "Postman testing practice": false
-        }
+    "Month 4\u20136: Projects + APIs": {
+      "ML & APIs": {
+        "Learn sklearn + pipelines": false,
+        "Use Whisper, ChatGPT APIs": false,
+        "Postman testing practice": false
       },
-      "projects": {
-        "Project 2 - Zanpakutō Evaluator": {
-          "Track skill progress in JSON": false,
-          "Use AI to evaluate and suggest tasks": false
-        },
-        "Project 3 - Stock ETL Pipeline": {
-          "Fetch data from API": false,
-          "Clean + store in SQLite": false,
-          "Build visual dashboard": false
-        }
+      "Project 2 - Zanpakut\u014d Evaluator": {
+        "Track skill progress in JSON": false,
+        "Use AI to evaluate and suggest tasks": false
+      },
+      "Project 3 - Stock ETL Pipeline": {
+        "Fetch data from API": false,
+        "Clean + store in SQLite": false,
+        "Build visual dashboard": false
       }
     },
-    "Month 7–9: Advanced AI + NLP": {
-      "tasks": {
-        "Backend & Frontend": {
-          "Learn Flask / Django REST": false,
-          "React basics + connection": false
-        },
-        "Blog & Portfolio": {
-          "Write 1 post/week": false,
-          "Publish projects with code explanation": false
-        }
+    "Month 7\u20139: Advanced AI + NLP": {
+      "Backend & Frontend": {
+        "Learn Flask / Django REST": false,
+        "React basics + connection": false
       },
-      "projects": {
-        "Project 4 - Legal NLP Bot": {
-          "Extract IPC/IT Act info": false,
-          "Answer legal questions using AI": false
-        },
-        "Project 5 - Resume Site Generator": {
-          "User JSON input → render resume site": false,
-          "Auto-fill content with Gemini": false
-        }
+      "Project 4 - Legal NLP Bot": {
+        "Extract IPC/IT Act info": false,
+        "Answer legal questions using AI": false
+      },
+      "Project 5 - Resume Site Generator": {
+        "User JSON input \u2192 render resume site": false,
+        "Auto-fill content with Gemini": false
+      },
+      "Blog & Portfolio": {
+        "Write 1 post/week": false,
+        "Publish projects with code explanation": false
       }
     },
-    "Month 10–12: Job Hunt Phase": {
-      "tasks": {
-        "Job Prep": {
-          "Write final resume & host online": false,
-          "Finalize GitHub with 5+ projects": false
-        },
-        "Networking & Apps": {
-          "Apply to 10 remote jobs/week": false,
-          "Cold email + LinkedIn outreach": false
-        },
-        "Interview Practice": {
-          "Solve 100+ Leetcode problems": false,
-          "Mock system design sessions": false
-        }
+    "Month 10\u201312: Job Hunt Phase": {
+      "Job Prep": {
+        "Write final resume & host online": false,
+        "Finalize GitHub with 5+ projects": false
       },
-      "projects": {
-        "Project 6 - Global Job Recommender": {
-          "Live search using job APIs": false,
-          "Recommend based on skills & stack": false
-        }
+      "Project 6 - Global Job Recommender": {
+        "Live search using job APIs": false,
+        "Recommend based on skills & stack": false
+      },
+      "Networking & Apps": {
+        "Apply to 10 remote jobs/week": false,
+        "Cold email + LinkedIn outreach": false
+      },
+      "Interview Practice": {
+        "Solve 100+ Leetcode problems": false,
+        "Mock system design sessions": false
       }
     }
   }
