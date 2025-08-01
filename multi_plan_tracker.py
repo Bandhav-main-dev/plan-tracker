@@ -10,7 +10,7 @@ DATA_FILES = {
     "🗽 Manhattan AI Engineer Plan": "manhattan_ai_plan.json"
 }
 CHAT_LOG_FILE = "chat_log.json"
-GOOGLE_API_KEY = "AIzaSyAgtHfrzqmOCrwTqzxYJLeGaHC6CXGjt8A"  # You can hardcode if needed
+GOOGLE_API_KEY = "AIzaSyCCApuSm68ur-QNfp62g4UuFnm1cBURb3c"  # You can hardcode if needed
 
 # === INIT Gemini ===
 if GOOGLE_API_KEY:
